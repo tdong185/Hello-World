@@ -1,3 +1,3 @@
 # Hello-World
 
-Currently a student at NYU studying Finance and CS
+Alum of NYU with majors in both Finance and CS.
